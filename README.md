@@ -1,3 +1,3 @@
-# WBA Q1 2024 Solana Institute
+# Prerequisite
 
 Prerequisite for WBA Q1 2024 Solana Institute.
